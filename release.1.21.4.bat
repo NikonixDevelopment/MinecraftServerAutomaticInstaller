@@ -14,7 +14,7 @@ echo **********************************************************************
 echo Updating Java to the latest version...
 timeout /t 1 /nobreak
 
-:: Download Java installer (always update to the latest version)
+:: Download Java installer (always update to the latest version/version for this software)
 set java_url=https://javadl.sun.com/webapps/download/AutoDL?BundleId=107944
 set java_installer=%USERPROFILE%\Downloads\jdk-installer.exe
 

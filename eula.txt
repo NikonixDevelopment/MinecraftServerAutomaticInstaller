@@ -1,0 +1,5 @@
+# By changing the value below to true you indicate your agreement to our EULA (https://account.mojang.com/documents/minecraft_eula).
+# If you do not accept the EULA, you are not allowed to run the server.
+# Please ensure you have read and understood the EULA before running the server.
+
+eula=true
